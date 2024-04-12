@@ -11,10 +11,15 @@
     <img src="https://img.shields.io/badge/-Three_JS-black?style=for-the-badge&logoColor=white&logo=threedotjs&color=000000" alt="three.js" />
     <img src="https://img.shields.io/badge/-GSAP-black?style=for-the-badge&logoColor=white&logo=greensock&color=88CE02" alt="greensock" />
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
+    <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="vite" />
+    <img src="    https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white
+" alt="vercel" />
+    
+    
   </div>
 
 <div>
-  <h3 align="center">Iphone 15 Website</h3>
+  <h1 align="center">Iphone 15 Website</h1>
 
   <p align="center">
     Welcome to Iphone 15 Clone Website.
@@ -28,31 +33,29 @@
   </p>
 </div>
 
+<div>
+  <h2 align="center">Modern Iphone 15 Website using React JS,Three JS and GSAP Animation</h2>
+</div>
 
 <!-- Table of Contents -->
 
 ## 📋 <a name="table">Table of Contents</a>
 
 1. 🤖 [Introduction](#introduction)
-2. ⚙️ [Tech Stack](#tech-stack)
-3. 🔋 [Features](#features)
-4. 🤸 [Installation](#Installation)
-5. 🕸️ [Code Snippets](#Code-Snippets)
-6. 🔗 [Assets Links](#Assets-links)
-7. 🚀 [Author](#About-Author)
-8. 📂️  [Folder Structure](#bangbang-folder-structure)
-9. 🧰 [Getting Started](#toolbox-getting-started)
-10. 📷 [Screenshots](#camera-screenshots)
-11. [Stats](#wrench-stats)
-13. [Contribute](#raised_hands-contribute)
-14. [Acknowledgements](#gem-acknowledgements)
-15. [Buy Me a Coffee](#coffee-buy-me-a-coffee)
-16. [Follow Me](#rocket-follow-me)
-17. [Learn More](#books-learn-more)
-18. [Deploy on Netlify](#page_with_curl-deploy-on-netlify)
-19. [Give A Star](#star-give-a-star)
+2. 🔋 [Features](#features)
+3. ⚙️ [Tech Stack](#tech-stack)
+4. 📂 [Folder Structure](#folder-structure)
+5. 🧰 [Getting Started](#getting-started)
+6. 💎 [Dependencies](#dependencies)
+7. 🕸️ [Code Snippets](code-snippets)
+8. 🔗 [Assets Links](#Assets-links)
+9. 📷 [Screenshots](#camera-screenshots)
+10. 🖨️ [Deploy on Versal](#page_with_curl-deploy-on-netlify)
+11. 🚀[Follow Me](#rocket-follow-me)
+12. ⭐ [Give A Star](#star-give-a-star)
+13. 📚 [Learn More](#books-learn-more)
 
-
+<!--Introduction-->
 
 ## <a name="introduction">🤖 Introduction</a>
 
@@ -66,16 +69,6 @@ By using React.js and TailwindCSS along with GSAP and Three.js, we can make a we
 
 <!--<a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>-->
 
-## <a name="tech-stack">⚙️ Tech Stack</a>
-
-- React.js
-- Three.js
-- React Three Fiber
-- React Three Drei
-- GSAP (Greensock)
-- Vite
-- Tailwind CSS
-
 ## <a name="features">🔋 Features</a>
 
 👉 **Beautiful Subtle Smooth Animations using GSAP**: Enhanced user experience with seamless and captivating animations powered by GSAP.
@@ -88,7 +81,95 @@ By using React.js and TailwindCSS along with GSAP and Three.js, we can make a we
 
 and many more, including code architecture and reusability 
 
-## <a name="Installation">🤸 Installation</a>
+## <a name="tech-stack">⚙️ Tech Stack</a>
+
+- React.js
+- Three.js
+- React Three Fiber
+- React Three Drei
+- GSAP (Greensock)
+- Vite
+- Tailwind CSS
+- Vercel
+
+## <a name="tech-stack">📂️ Folder Structure</a>
+
+Here is the folder structure of this app.
+
+```bash
+apple-clone/
+  |- public/
+    |-- assets/
+    |-- models/
+    |-- apple-icon.png
+    |-- favicon.ico
+    |-- favicon1.png
+    |-- favicon2.png
+  |- src/
+    |-- assets/
+        |--- index.js
+    |-- components/
+        |--- Features.jsx
+        |--- Footer.jsx
+        |--- Hero.jsx
+        |--- Highlights.jsx
+        |--- HowItWorks.jsx
+        |--- IPhone.jsx
+        |--- Lights.jsx
+        |--- Loader.jsx
+        |--- Model.jsx
+        |--- ModelView.jsx
+        |--- Navbar.jsx
+        |--- VideoCarousel.jsx
+    |-- constants/
+        |--- index.js
+    |-- utils/
+        |--- animations.js
+    |-- App.css
+    |-- App.jsx
+    |-- index.css
+    |-- main.jsx
+  |- .eslintrc.json
+  |- .gitignore
+  |- index.html
+  |- package-lock.json
+  |- package.json
+  |- postcss.config.js
+  |- tailwind.config.js
+  |- vite.config.js
+```
+
+<br />
+
+## <a name="dependencies">💎 Dependenciese</a>
+
+Useful resources and dependencies that are used in Apple Clone.
+
+- [@gsap/react](https://www.npmjs.com/package/@gsap/react): ^2.1.0
+- [@react-three/drei](https://www.npmjs.com/package/@react-three/drei): ^9.102.6
+- [gsap](https://www.npmjs.com/package/gsap): ^3.12.5
+- [react](https://www.npmjs.com/package/react): ^18.2.0
+- [react-dom](https://www.npmjs.com/package/react-dom): ^18.2.0
+- [three](https://www.npmjs.com/package/three): ^0.162.0
+- [@react-three/eslint-plugin](https://www.npmjs.com/package/@react-three/eslint-plugin): ^0.1.1
+- [@types/react](https://www.npmjs.com/package/@types/react): ^18.2.67
+- [@types/react-dom](https://www.npmjs.com/package/@types/react-dom): ^18.2.21
+- [@vitejs/plugin-react](https://www.npmjs.com/package/@vitejs/plugin-react): ^4.2.1
+- [autoprefixer](https://www.npmjs.com/package/autoprefixer): ^10.4.18
+- [eslint](https://www.npmjs.com/package/eslint): ^8.57.0
+- [eslint-config-prettier](https://www.npmjs.com/package/eslint-config-prettier): ^9.1.0
+- [eslint-config-standard](https://www.npmjs.com/package/eslint-config-standard): ^17.1.0
+- [eslint-plugin-import](https://www.npmjs.com/package/eslint-plugin-import): ^2.29.1
+- [eslint-plugin-react](https://www.npmjs.com/package/eslint-plugin-react): ^7.34.0
+- [eslint-plugin-react-hooks](https://www.npmjs.com/package/eslint-plugin-react-hooks): ^4.6.0
+- [eslint-plugin-react-refresh](https://www.npmjs.com/package/eslint-plugin-react-refresh): ^0.4.5
+- [eslint-plugin-tailwindcss](https://www.npmjs.com/package/eslint-plugin-tailwindcss): ^3.15.1
+- [postcss](https://www.npmjs.com/package/postcss): ^8.4.36
+- [prettier](https://www.npmjs.com/package/prettier): ^3.2.5
+- [tailwindcss](https://www.npmjs.com/package/tailwindcss): ^3.4.1
+- [vite](https://www.npmjs.com/package/vite): ^5.1.6
+
+## <a name="getting-started">🤸 Getting Started</a>
 
 Follow these steps to set up the project locally on your machine.
 
