@@ -44,13 +44,13 @@
 4. 💎 [Dependencies](#dependencies)
 4. 📂 [Folder Structure](#folder-structure)
 5. 🧰 [Getting Started](#getting-started)
-7. 🕸️ [Code Snippets](code-snippets)
-8. 🔗 [Assets Links](#Assets-links)
-9. 📷 [Screenshots](#camera-screenshots)
-10. 🖨️ [Deploy on Versal](#page_with_curl-deploy-on-netlify)
-12. ⭐ [Give A Star](#star-give-a-star)
+7. 🕸️ [Code Snippets](#code-snippets)
+8. 🔗 [Assets Links](#assets-links)
+9. 📷 [Screenshots](#screenshots)
+10. 🖨️ [Deploy on Vercel](#deploy-on-vercel)
+11. ⭐ [Give A Star](#give-a-star)
 11. 🚀 [Follow Me](#follow-me)
-13. 📚 [Learn More](#books-learn-more)
+13. 📚 [Learn More](#learn-more)
 
 <!--Introduction-->
 
@@ -92,7 +92,7 @@ and many more, including code architecture and reusability
 
 
 
-## <a name="dependencies">💎 Dependenciese</a>
+## <a name="dependencies">💎 Dependencies</a>
 
 Useful resources and dependencies that are used in Apple Clone.
 
@@ -120,7 +120,7 @@ Useful resources and dependencies that are used in Apple Clone.
 - [tailwindcss](https://www.npmjs.com/package/tailwindcss): ^3.4.1
 - [vite](https://www.npmjs.com/package/vite): ^5.1.6
 
-## <a name="tech-stack">📂️ Folder Structure</a>
+## <a name="folder-structure">📂️ Folder Structure</a>
 
 Here is the folder structure of this app.
 
@@ -219,7 +219,7 @@ yarn install --legacy-peer-deps
 ```
 Now app is fully configured 👍 and you can start using this app using either one of `npm run dev` or `yarn dev`
 
-## <a name="Code-Snippets">🕸️Code Snippets</a>
+## <a name="code-snippets">🕸️Code Snippets</a>
 
 <details>
 <summary><code>tailwind.config.js</code></summary>
@@ -909,7 +909,7 @@ Public Assets used in the project can be found [here](https://drive.google.com/f
 GLTFs into JSX: [https://github.com/pmndrs/gltfjsx](https://github.com/pmndrs/gltfjsx) 
 
 
-## <a name="[deploy-on-versa">🔗 Deploy on Versal</a>
+## <a name="[deploy-on-vercel">🖨️ Deploy on Vercel</a>
 
 1. **Sign Up/Log In to Vercel:**
    - If you don't have an account on Vercel, you'll need to sign up for one. Visit the Vercel website (https://vercel.com/) and sign up with your email or GitHub account.
@@ -966,7 +966,7 @@ You can also give this repository a star to show more people and they can use th
 
 
 
-## <a name="learn-more">🚀Learn More</a>
+## <a name="learn-more">📚 Learn More</a>
 
 
 **React:**
