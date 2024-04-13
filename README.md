@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-    <a href="https://i-phone-clone.vercel.app/" target="_blank">
+    <a href="https://i-phone-clone.vercel.app" target="_blank">
       <img src="https://ik.imagekit.io/bbhavsgr/iphone-clone/95d0d557-ab5e-454f-89c7-62c0b98957c8.png?updatedAt=1712956214283" alt="Project Banner">
     </a>
   <br />
@@ -22,7 +22,7 @@
     Welcome to Iphone 15 Clone Website.
     <br/>
     <br/>
-    <a href="https://baibhavsagar.tech"><strong>Click here to Visit the Website »</strong></a>
+    <a href="https://i-phone-clone.vercel.app"><strong>Click here to Visit the Website »</strong></a>
     <br>
     <a href="https://scratched-truffle-93c.notion.site/Beauty-Of-Bihar-Tourism-Management-System-546942d3c10a4026abbe132993432167?pvs=4](https://scratched-truffle-93c.notion.site/Iphone-clone-f13924f6fa294356aa635fb34c2aa232?pvs=4"><strong>Click here for Detailed Documentation and Proposal »</strong></a>
     <br/>
