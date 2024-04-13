@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/-GSAP-black?style=for-the-badge&logoColor=white&logo=greensock&color=88CE02" alt="greensock" />
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
     <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="vite" />
-    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel" /> 
+    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel" />
   </div>
 
 <div>
@@ -41,15 +41,15 @@
 1. 🤖 [Introduction](#introduction)
 2. 🔋 [Features](#features)
 3. ⚙️ [Tech Stack](#tech-stack)
+4. 💎 [Dependencies](#dependencies)
 4. 📂 [Folder Structure](#folder-structure)
 5. 🧰 [Getting Started](#getting-started)
-6. 💎 [Dependencies](#dependencies)
 7. 🕸️ [Code Snippets](code-snippets)
 8. 🔗 [Assets Links](#Assets-links)
 9. 📷 [Screenshots](#camera-screenshots)
 10. 🖨️ [Deploy on Versal](#page_with_curl-deploy-on-netlify)
-11. 🚀[Follow Me](#rocket-follow-me)
 12. ⭐ [Give A Star](#star-give-a-star)
+11. 🚀 [Follow Me](#follow-me)
 13. 📚 [Learn More](#books-learn-more)
 
 <!--Introduction-->
@@ -80,6 +80,7 @@ and many more, including code architecture and reusability
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
+[![My Skills](https://skillicons.dev/icons?i=react,threejs,vite,tailwind,vercel)](https://skillicons.dev)
 - React.js
 - Three.js
 - React Three Fiber
@@ -88,6 +89,36 @@ and many more, including code architecture and reusability
 - Vite
 - Tailwind CSS
 - Vercel
+
+
+
+## <a name="dependencies">💎 Dependenciese</a>
+
+Useful resources and dependencies that are used in Apple Clone.
+
+- [@gsap/react](https://www.npmjs.com/package/@gsap/react): ^2.1.0
+- [@react-three/drei](https://www.npmjs.com/package/@react-three/drei): ^9.102.6
+- [gsap](https://www.npmjs.com/package/gsap): ^3.12.5
+- [react](https://www.npmjs.com/package/react): ^18.2.0
+- [react-dom](https://www.npmjs.com/package/react-dom): ^18.2.0
+- [three](https://www.npmjs.com/package/three): ^0.162.0
+- [@react-three/eslint-plugin](https://www.npmjs.com/package/@react-three/eslint-plugin): ^0.1.1
+- [@types/react](https://www.npmjs.com/package/@types/react): ^18.2.67
+- [@types/react-dom](https://www.npmjs.com/package/@types/react-dom): ^18.2.21
+- [@vitejs/plugin-react](https://www.npmjs.com/package/@vitejs/plugin-react): ^4.2.1
+- [autoprefixer](https://www.npmjs.com/package/autoprefixer): ^10.4.18
+- [eslint](https://www.npmjs.com/package/eslint): ^8.57.0
+- [eslint-config-prettier](https://www.npmjs.com/package/eslint-config-prettier): ^9.1.0
+- [eslint-config-standard](https://www.npmjs.com/package/eslint-config-standard): ^17.1.0
+- [eslint-plugin-import](https://www.npmjs.com/package/eslint-plugin-import): ^2.29.1
+- [eslint-plugin-react](https://www.npmjs.com/package/eslint-plugin-react): ^7.34.0
+- [eslint-plugin-react-hooks](https://www.npmjs.com/package/eslint-plugin-react-hooks): ^4.6.0
+- [eslint-plugin-react-refresh](https://www.npmjs.com/package/eslint-plugin-react-refresh): ^0.4.5
+- [eslint-plugin-tailwindcss](https://www.npmjs.com/package/eslint-plugin-tailwindcss): ^3.15.1
+- [postcss](https://www.npmjs.com/package/postcss): ^8.4.36
+- [prettier](https://www.npmjs.com/package/prettier): ^3.2.5
+- [tailwindcss](https://www.npmjs.com/package/tailwindcss): ^3.4.1
+- [vite](https://www.npmjs.com/package/vite): ^5.1.6
 
 ## <a name="tech-stack">📂️ Folder Structure</a>
 
@@ -138,33 +169,7 @@ apple-clone/
 
 <br />
 
-## <a name="dependencies">💎 Dependenciese</a>
 
-Useful resources and dependencies that are used in Apple Clone.
-
-- [@gsap/react](https://www.npmjs.com/package/@gsap/react): ^2.1.0
-- [@react-three/drei](https://www.npmjs.com/package/@react-three/drei): ^9.102.6
-- [gsap](https://www.npmjs.com/package/gsap): ^3.12.5
-- [react](https://www.npmjs.com/package/react): ^18.2.0
-- [react-dom](https://www.npmjs.com/package/react-dom): ^18.2.0
-- [three](https://www.npmjs.com/package/three): ^0.162.0
-- [@react-three/eslint-plugin](https://www.npmjs.com/package/@react-three/eslint-plugin): ^0.1.1
-- [@types/react](https://www.npmjs.com/package/@types/react): ^18.2.67
-- [@types/react-dom](https://www.npmjs.com/package/@types/react-dom): ^18.2.21
-- [@vitejs/plugin-react](https://www.npmjs.com/package/@vitejs/plugin-react): ^4.2.1
-- [autoprefixer](https://www.npmjs.com/package/autoprefixer): ^10.4.18
-- [eslint](https://www.npmjs.com/package/eslint): ^8.57.0
-- [eslint-config-prettier](https://www.npmjs.com/package/eslint-config-prettier): ^9.1.0
-- [eslint-config-standard](https://www.npmjs.com/package/eslint-config-standard): ^17.1.0
-- [eslint-plugin-import](https://www.npmjs.com/package/eslint-plugin-import): ^2.29.1
-- [eslint-plugin-react](https://www.npmjs.com/package/eslint-plugin-react): ^7.34.0
-- [eslint-plugin-react-hooks](https://www.npmjs.com/package/eslint-plugin-react-hooks): ^4.6.0
-- [eslint-plugin-react-refresh](https://www.npmjs.com/package/eslint-plugin-react-refresh): ^0.4.5
-- [eslint-plugin-tailwindcss](https://www.npmjs.com/package/eslint-plugin-tailwindcss): ^3.15.1
-- [postcss](https://www.npmjs.com/package/postcss): ^8.4.36
-- [prettier](https://www.npmjs.com/package/prettier): ^3.2.5
-- [tailwindcss](https://www.npmjs.com/package/tailwindcss): ^3.4.1
-- [vite](https://www.npmjs.com/package/vite): ^5.1.6
 
 ## <a name="getting-started">🤸 Getting Started</a>
 
@@ -200,6 +205,19 @@ npm run dev
 ```
 
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
+
+
+**If encountering dependency errors:(Optional)**
+
+Install project dependencies using 
+```bash
+npm install --legacy-peer-deps
+``` 
+or
+```bash
+yarn install --legacy-peer-deps
+```
+Now app is fully configured 👍 and you can start using this app using either one of `npm run dev` or `yarn dev`
 
 ## <a name="Code-Snippets">🕸️Code Snippets</a>
 
@@ -867,6 +885,22 @@ canvas {
 
 </details>
 
+## <a name="screenshots">📷  Screenshots</a>
+
+![Navbar](https://ik.imagekit.io/bbhavsgr/iphone-clone/screencapture-i-phone-clone-vercecvfvbvl-app-2024-04-13-01_58_15.png?updatedAt=1713045968446 "Navbar")
+
+![Modern UI/UX](https://ik.imagekit.io/bbhavsgr/iphone-clone/img1.png?updatedAt=1713045374251 "Modern UI/UX")
+
+
+
+![3D iPhone Models-1](https://ik.imagekit.io/bbhavsgr/iphone-clone/img2.png?updatedAt=1713045374836 "Interactive Design")
+
+![3D iPhone Models-2](https://ik.imagekit.io/bbhavsgr/iphone-clone/img2-1.png?updatedAt=1713045700929 "3D iPhone Models")
+
+![Interactive Carousel](https://ik.imagekit.io/bbhavsgr/iphone-clone/img3.png?updatedAt=1713045375359 "Interactive Carousel")
+
+![Modern Animations](https://ik.imagekit.io/bbhavsgr/iphone-clone/img4.png?updatedAt=1713045375208 "Modern Animations")
+
 ## <a name="Assets-links">🔗 Assets and Other Links</a>
 
 Public Assets used in the project can be found [here](https://drive.google.com/file/d/1AZPQVlY03jOMJ0eiPgsIg5OMl5cBPszF/view?usp=sharing)
@@ -874,6 +908,90 @@ Public Assets used in the project can be found [here](https://drive.google.com/f
 
 GLTFs into JSX: [https://github.com/pmndrs/gltfjsx](https://github.com/pmndrs/gltfjsx) 
 
-## <a name="About-Author">🚀 About Author</a>
 
-* **Baibhav Sagar** - *Web Developer* - [Baibhav Sagar](https://github.com/baibhavsagar) - *Developed by Baibhav Sagar*
+## <a name="[deploy-on-versa">🔗 Deploy on Versal</a>
+
+1. **Sign Up/Log In to Vercel:**
+   - If you don't have an account on Vercel, you'll need to sign up for one. Visit the Vercel website (https://vercel.com/) and sign up with your email or GitHub account.
+   - If you already have an account, log in to your Vercel account.
+
+2. **Connect Git Repository:**
+   - Once you're logged in, click on the "Import Project" button on the dashboard.
+   - Select your Git repository where your app's code resides. Vercel supports repositories hosted on GitHub, GitLab, Bitbucket, and more.
+
+3. **Configure Project Settings:**
+   - After selecting the repository, Vercel will detect your project's framework. If it doesn't, you'll need to specify it.
+   - Configure other settings such as the branch to deploy, build settings, and environment variables if needed.
+
+4. **Review Deployment Settings:**
+   - Review the deployment settings to ensure everything looks correct. You can set up custom domains, add environment variables, and configure other advanced settings here.
+
+5. **Deploy Your App:**
+   - Once you're satisfied with the settings, click on the "Deploy" button.
+   - Vercel will start building and deploying your app. You can monitor the progress on the dashboard.
+
+6. **Wait for Deployment to Finish:**
+   - Depending on the size of your app and its dependencies, the deployment process may take some time.
+   - Once the deployment is complete, Vercel will provide you with a URL where your app is live.
+
+7. **Test Your App:**
+   - Visit the provided URL to test your deployed app. Make sure everything is working as expected.
+
+8. **Customize Domain (Optional):**
+   - If you want to use a custom domain for your app, you can set it up in the project settings on Vercel. Follow the instructions to verify domain ownership and configure DNS settings.
+
+9. **Continuous Deployment (Optional):**
+   - Vercel supports continuous deployment, which means your app will automatically redeploy whenever you push changes to your Git repository. You can configure this in the project settings.
+
+10. **Monitor and Manage Deployments:**
+    - You can monitor your deployments, view logs, and manage your projects directly from the Vercel dashboard.
+
+That's it! Your app is now successfully deployed on Vercel and accessible to users. Make sure to keep an eye on your deployments and update your app as needed.
+
+
+
+
+## <a name="give-a-star">⭐ Give a Star</a>
+You can also give this repository a star to show more people and they can use this repository.
+
+## <a name="follow me">🚀Follow Me On</a>
+[This Repository is developed and maintained by Baibhav Sagar](https://github.com/baibhavsagar)
+
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://github.com/baibhavsagar "Instagram")
+
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/baibhavsagar "Instagram")
+
+[![Follow Me](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/baibhavsagar "Linked In")
+
+
+
+## <a name="learn-more">🚀Learn More</a>
+
+
+**React:**
+1. **Official React Documentation:** 
+   - [React Documentation](https://reactjs.org/docs/getting-started.html) - The official documentation provides a comprehensive guide to learning React, starting from the basics to advanced topics.
+2. **React Tutorial by React Team:** 
+   - [React Tutorial](https://reactjs.org/tutorial/tutorial.html) - This interactive tutorial teaches you the fundamentals of React by building a tic-tac-toe game.
+3. **React - The Complete Guide (incl Hooks, React Router, Redux):**
+   - [Udemy Course](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) - A highly rated Udemy course covering React from beginner to advanced level.
+
+**Tailwind CSS:**
+1. **Official Tailwind CSS Documentation:** 
+   - [Tailwind CSS Documentation](https://tailwindcss.com/docs) - The official documentation provides in-depth explanations of Tailwind's utility classes and features.
+2. **Tailwind CSS Course by Adam Wathan:** 
+   - [Tailwind CSS Course](https://tailwindcss.com/course) - A comprehensive video course by Adam Wathan, the creator of Tailwind CSS, covering everything from basics to advanced techniques.
+3. **Tailwind CSS Crash Course:** 
+   - [YouTube Tutorial](https://www.youtube.com/watch?v=UBOj6rqRUME) - A crash course on Tailwind CSS by Traversy Media, covering the essentials to get you started quickly.
+
+**Three.js:**
+1. **Official Three.js Documentation:** 
+   - [Three.js Documentation](https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene) - The official documentation provides detailed guides, examples, and API references for learning Three.js.
+2. **Three.js Journey by Bruno Simon:** 
+   - [Three.js Journey](https://threejs-journey.xyz/) - A comprehensive video course covering Three.js from beginner to advanced level, created by Bruno Simon.
+3. **Three.js Fundamentals:** 
+   - [Website](https://threejsfundamentals.org/) - A collection of tutorials, examples, and explanations covering the fundamentals of Three.js, suitable for beginners.
+
+These resources should provide with a solid foundation for learning React, Tailwind CSS, and Three.js. Happy coding!
+
